@@ -36,14 +36,12 @@ img {
   width: 10rem;
 }
 .head {
-  border: 2px solid black;
   margin-top: 10rem;
 }
 .head span {
   color: rgb(214, 234, 60);
 }
 .paragraf {
-  border: 2px solid black;
   padding: 3rem;
   width: 80vw;
   height: 80vh;
@@ -53,4 +51,9 @@ img {
   font-weight: bold;
   text-align: center;
   color: rgb(74, 58, 59);
+}
+.down {
+  color: rgb(173, 47, 92);
+  font-size: 1.2rem;
+  margin-top: 2rem;
 }
